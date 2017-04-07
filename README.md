@@ -1,2 +1,19 @@
-# blog-universidad
-Es un proyecto para mi universidad se ve changuito juas juas 
+Blog Universidad
+
+[Descripcion del proyecto]
+
+[Instalación]
+  -REQUISITOS
+  -VERSION
+  -ENCARGADOS DEL PROYECTO
+  
+  
+ [Usage]
+ 
+ [Documentación]
+ 
+ [Roadmaps]
+ 
+ 
+ [Licencia]
+
